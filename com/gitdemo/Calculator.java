@@ -12,5 +12,6 @@ public class Calculator {
     }
 
     public int subtract(int a, int b) {
+        // Subtract two numbers
         return a - b;
     }
